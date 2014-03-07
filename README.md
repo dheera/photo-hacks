@@ -1,5 +1,5 @@
 photo-hacks
 ===========
 
-
-cameras + motors + arduinos
+timelapse: arduino contraption to slowly move a 2-axis motorised head
+  and take photos
